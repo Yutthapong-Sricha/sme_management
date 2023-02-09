@@ -3,7 +3,7 @@
    <!-- Vuetify Card Center Horizontal and Vertical  -->
     <v-card class="mx-auto" width="400">
           <v-card-title>
-            Card Title
+            yut
           </v-card-title>
           <v-card-text>
             This is content
